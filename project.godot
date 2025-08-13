@@ -10,15 +10,9 @@ config_version=5
 
 [application]
 
-config/name="ScapularSteamJumpstartDaydream"
-config/features=PackedStringArray("4.4", "GL Compatibility")
-config/icon="res://icon.svg"
+config/name="ScapularSteamTestGame"
+config/features=PackedStringArray("4.4")
 
 [dotnet]
 
-project/assembly_name="ScapularSteamJumpstartDaydream"
-
-[rendering]
-
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
+project/assembly_name="UnnamedProject"
