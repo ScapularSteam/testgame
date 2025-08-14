@@ -21,5 +21,9 @@ func _physics_process(delta: float) -> void:
 		velocity.x = direction * SPEED
 	else:
 		velocity.x = move_toward(velocity.x, 0, 40)
+		
+	if (position.y >= 300):
+		position.x = 0
+		position.y = 0
 
 	move_and_slide()

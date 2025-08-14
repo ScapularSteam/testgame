@@ -18,6 +18,10 @@ config/features=PackedStringArray("4.4")
 
 project/assembly_name="UnnamedProject"
 
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
+
 [input]
 
 jump={
