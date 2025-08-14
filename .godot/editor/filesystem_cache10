@@ -1,9 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1755129724
+::res://::1755131081
+AnotherBoringPlatformer.apple-touch-icon.png::CompressedTexture2D::8107560711399539500::1755130988::1755131068::1::::<><><>0<>0<>7b93270cf473b54b26ebbb53499cb970<>res://.godot/imported/AnotherBoringPlatformer.apple-touch-icon.png-9833cb8ab0166d6ca836d2365cba20b0.ctex::
+AnotherBoringPlatformer.icon.png::CompressedTexture2D::3360648593294158017::1755130988::1755131068::1::::<><><>0<>0<>cec4a77b0b7b8287e4c7ff4dc3b9656a<>res://.godot/imported/AnotherBoringPlatformer.icon.png-7f2a9868ecc0ffb9faf5f1256029b632.ctex::
+AnotherBoringPlatformer.png::CompressedTexture2D::4041500966785626132::1755130988::1755131068::1::::<><><>0<>0<>5ce0416c5512cb38635817e0d1b45064<>res://.godot/imported/AnotherBoringPlatformer.png-b6d4f53f49e8277f261de77eecbdc05f.ctex::
 cuttingboard.png::CompressedTexture2D/CompressedTexture2D::9198605705876799712::1755129461::1755129475::1::::<><><>0<>0<>bbc66fd8e2f79d8b7b57351e8be27f2c<>res://.godot/imported/cuttingboard.png-3fe224efd2f4eff3071e4a8b55089122.ctex::
+export_presets.cfg::TextFile::-1::1755131081::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D/CompressedTexture2D::7819457143695154758::1755098183::1755098189::1::::<><><>0<>0<>e3cedad23120d304232e78f18452e329<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
-main.tscn::PackedScene::3139581697336896567::1755129701::0::1::::<><><>0<>0<><>::uid://c1j5cwtf8n61u::::res://kenney_scribble-platformer/PNG/Retina/character_roundRed.png<>uid://y066wd0ggrnp::::res://player.gd<>uid://04uprlmcqter::::res://kenney_scribble-platformer/Spritesheet/spritesheet_retina.png<>uid://d4b4xsabsq6xw::::res://cuttingboard.png<>uid://dp8ohuxlrigmb::::res://kenney_scribble-platformer/Spritesheet/spritesheet_retina_grey.png
-player.gd::GDScript::1738080438843359741::1755128751::0::1::::<>CharacterBody2D<><>0<>0<><>::
+main.tscn::PackedScene::3139581697336896567::1755130895::0::1::::<><><>0<>0<><>::uid://c1j5cwtf8n61u::::res://kenney_scribble-platformer/PNG/Retina/character_roundRed.png<>uid://y066wd0ggrnp::::res://player.gd<>uid://04uprlmcqter::::res://kenney_scribble-platformer/Spritesheet/spritesheet_retina.png<>uid://d4b4xsabsq6xw::::res://cuttingboard.png<>uid://dp8ohuxlrigmb::::res://kenney_scribble-platformer/Spritesheet/spritesheet_retina_grey.png
+player.gd::GDScript/GDScript::1738080438843359741::1755128751::0::1::::<>CharacterBody2D<><>0<>0<><>::
 README.md::TextFile/TextFile::-1::1755126618::0::1::::<><><>0<>0<><>::
 Test.tscn::PackedScene/PackedScene::-1::1755126619::0::1::::<><><>0<>0<><>::
 ::res://addons/::1755126635
@@ -16,6 +20,10 @@ heartbeat.gd::GDScript/GDScript::3693724244693807100::1755126619::0::1::::<>RefC
 plugin.cfg::TextFile/TextFile::-1::1755126619::0::1::::<><><>0<>0<><>::
 README.md::TextFile/TextFile::-1::1755126618::0::1::::<><><>0<>0<><>::
 utils.gd::GDScript/GDScript::8518971286728372725::1755126619::0::1::::<>RefCounted<><>0<>0<><>::
+::res://exports/::1755131104
+AnotherBoringPlatformer.apple-touch-icon.png::CompressedTexture2D::8731466151083395610::1755131080::1755131299::1::::<><><>0<>0<>6b6babe4a933aa16f5f06c405113b53a<>res://.godot/imported/AnotherBoringPlatformer.apple-touch-icon.png-4876e15ced97e2f7fb31a0e31207cd46.ctex::
+AnotherBoringPlatformer.icon.png::CompressedTexture2D::6836628642831888050::1755131080::1755131299::1::::<><><>0<>0<>f3a54e1eaf645b55ff2b2408060a341f<>res://.godot/imported/AnotherBoringPlatformer.icon.png-3a3ecf607a6994db2a171ce742d2f7f3.ctex::
+AnotherBoringPlatformer.png::CompressedTexture2D::113293643094918484::1755131080::1755131299::1::::<><><>0<>0<>c6c48f6f2ae25f77acb8a62fda611555<>res://.godot/imported/AnotherBoringPlatformer.png-3f6574262428705c5f27f28c3cd8ebc9.ctex::
 ::res://images/::1755126635
 godotwaka2.png::CompressedTexture2D/CompressedTexture2D::1383366430515447209::1755126619::1755126619::1::::<><><>0<>0<>685d61e15e6ff0df59549fe1fd895c7e<>res://.godot/imported/godotwaka2.png-7d3d010fb4adc0d433467ab1cc4754ed.ctex::
 godotwaka.png::CompressedTexture2D/CompressedTexture2D::1893248215103769683::1755126619::1755126619::1::::<><><>0<>0<>66189ae7aa9bb396e8aade20c2584956<>res://.godot/imported/godotwaka.png-ef0518417b4f997d237759e5551dd05d.ctex::
